@@ -15,4 +15,5 @@ celerybeat-schedule
 *.session
 *.txt
 *.raw
+*.session-journal
 test.py
