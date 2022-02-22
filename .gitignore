@@ -13,7 +13,7 @@ env
 venv
 celerybeat-schedule
 *.session
-*.txt
+unknown_errors.txt
 *.raw
 *.session-journal
 test.py
